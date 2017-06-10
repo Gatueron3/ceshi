@@ -1,0 +1,183 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0; padding:0;}
+body{background:#FFF; font-size:12px;}
+body, input, textarea, select, button{font-family:"lucida Grande",Verdana,"Microsoft YaHei";}
+
+.cantainer{
+	min-height:500px;
+}
+.header{
+	min-width:1070px;
+}
+.header{
+	background:none repeat scroll 0 0 #edf4ed;
+	border-bottom:1px solid #c7ecc7;
+	height:62px;
+	overflow:hidden;
+}
+.header img{
+	margin-left:40px;
+	float:left;
+	margin-top:4px;
+	width:232px;
+	height:57px;
+}
+.nav{
+	padding-right:40px;
+	line-height:30px;
+	margin-top:16px;
+	overflow:hidden;
+	text-align:right;
+	color:#259235;
+}
+a{
+	text-decoration:none;
+}
+.nav a{
+	color:#259235;
+}
+a:hover{
+	text-decoration:underline;
+}
+.content{
+	margin:32px auto;
+	padding:0 24px;
+	width:960px;
+}
+.content img{
+	width:505px;
+	height:279px;
+	float:left;
+	margin-top:100px;
+}
+.login{
+	width:334px;
+	height:387px;
+	visibility:visible;
+	border:1px solid #c7ecc7;
+	border-radius:5px;
+	float:right;
+	overflow:hidden;
+	position:relative;
+	margin-top:25px;
+	margin-right:40px;
+}
+.login h1{
+	height:50px;
+	border-bottom:1px solid #CCC;
+	color:#333;
+	font-size:16px;
+	font-weight:normal;
+	line-height:50px;
+	padding-left:15px;
+}
+.forml{
+	min-height:289px;
+	width:306px;
+}
+.text{
+	width:232px;
+	padding:10px 40px 10px 10px;
+	display:inline-block;
+	position:relative;
+	height:18px;
+	font-size:16px;
+	font-family:Verdana,Tahoma,Arial;
+	color:#333;	
+	line-height:18px;
+}
+.shuru1{
+	margin:36px 23px 0px 23px;
+}
+.shuru2{
+	margin:15px 23px 25px 23px;
+}
+.tongyi{
+	margin-left:23px;
+}
+.tongyi .shuru3{
+	width:16px;
+	height:16px;
+	border:1px solid #96a5b4;
+	vertical-align:middle;
+}
+.tongyi span{
+	height:18px;
+	line-height:18px;
+}
+.btn{
+	background:none repeat scroll 0 0 #3ba354;
+	height:40px;
+	line-height:39px;
+	width:285px;
+	color:#FFF;
+	font-size:18px;
+	border:medium none;
+	cursor:pointer;
+	margin:20px 23px 25px 23px;
+	border-radius:3px;
+}
+.login a{
+	text-decoration:none;
+}
+.login a:hover .btn{
+	background:none repeat scroll 0 0 #45ba61;
+}
+.bottom{
+	width:282px;
+	text-align:right;
+	margin-left:22px;
+	margin-top:15px;
+}
+.bottom .link{
+	color:#259235;
+}
+.bottom a:hover{
+	text-decoration:underline;
+}
+.bottom .dotted{
+	color:#bfbfbf;
+	margin:0 5px;
+}
+.footer{
+	border-top:1px dashed #ddd;
+	color:#999;
+	padding-top:6px;
+	width:900px;
+	margin:250px auto 0px;
+}
+.clear{
+	clear:both;
+}
+.fleft{
+	color:#999;
+	text-align:left;
+}
+.fright{
+	margin-left:268px;
+}
+.fright a{
+	color:#259235;
+	padding:0 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
